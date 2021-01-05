@@ -1,0 +1,84 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.hello{
+    color: #042F59;
+    font-size: 60px;
+    font-weight: 400;
+}
+.johir{
+    color: salmon;
+    font-size: 60px;
+    font-weight: 400;
+}
+.half_width{
+    margin-left: 5%;
+    padding-left: 5%;
+    float: left;
+    width:40%;
+    /* width: 40%; */
+
+}
+.link_button{
+    background-image:linear-gradient(180deg,salmon,tomato);
+    text-decoration: none;
+    padding: 15px 50px;
+    border-radius: 5px;
+    color: white;
+}
+li a{
+    display: block;
+    float: right;
+    
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: white;
+    text-align: center;
+    color: #686868;
+    margin-top: 2%;
+    
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-right: 8%;
+    
+
+}
+.upper_section{
+    background-color: #686868;
+    height: 70px;
+    width: 1358px;
+    padding: 0; 
+    margin: 0;
+}
+.img{
+    width: 80%;
+    margin-top: 0px;
+}
+.about{
+    font-size: 45px;
+    color: salmon;
+    font-weight: 300;
+
+}
+.about1{
+    font-size: 45px;
+    color: #042F59;
+    font-weight: 300;
+
+}
+p{
+    color: gray ;
+    padding-bottom: 20px;
+    padding-top: 0;
+}
+h1 {
+    padding-top: 100px;
+}
+
+.bottom_part{
+    padding-top: 100px;
+}
