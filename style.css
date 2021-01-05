@@ -1,5 +1,6 @@
 body{
     font-family: 'Oswald', sans-serif;
+    margin: 0%;
 }
 .hello{
     color: #042F59;
@@ -12,10 +13,11 @@ body{
     font-weight: 400;
 }
 .half_width{
+    width: 40%; 
+    float: left;  
     margin-left: 5%;
     padding-left: 5%;
-    float: left;
-    width:40%;
+
     /* width: 40%; */
 
 }
@@ -54,9 +56,9 @@ ul{
     padding: 0; 
     margin: 0;
 }
-.img{
+img{
     width: 80%;
-    margin-top: 0px;
+   
 }
 .about{
     font-size: 45px;
@@ -70,15 +72,30 @@ ul{
     font-weight: 300;
 
 }
+.about2{
+    color: #042F59;
+    font-weight: 300;
+
+}
 p{
     color: gray ;
-    padding-bottom: 20px;
+    padding-bottom: 25px;
     padding-top: 0;
 }
 h1 {
-    padding-top: 100px;
+    padding-top: 150px;
 }
-
-.bottom_part{
-    padding-top: 100px;
+.final_text{
+    text-align: center;
+}
+.image_area{
+    box-shadow: 10px 10px 40px gainsboro;
+    /* border-radius:5px; */
+    background-color: white;;
+    width: 22%;
+    border-radius: 5%;
+    
+}
+.bottom_box{
+    box-
 }
