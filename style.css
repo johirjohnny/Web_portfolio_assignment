@@ -143,3 +143,17 @@ h1 {
     padding: 2%;
     
 }
+.extra_lower_section{
+    background-color: #042F59; ;
+    height: 200px;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 5%;
+    color: whitesmoke;
+    font-weight: 500;
+
+}
+.lower_quotoes{
+    text-align: right;
+    
+}
