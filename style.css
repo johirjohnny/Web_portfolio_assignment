@@ -52,9 +52,8 @@ ul{
 .upper_section{
     background-color: #686868;
     height: 70px;
-    width: 1358px;
-    padding: 0; 
-    margin: 0;
+    width: 100%;
+
 }
 img{
     width: 80%;
@@ -97,5 +96,50 @@ h1 {
     
 }
 .bottom_box{
-    box-
+    background-image: url(shapes/Group_33094_1.png);
+    height: 100%; 
+    width: 100%;
+    background-position:center;
+    margin-top: 400px;
+    background-repeat: no-repeat;  
+    background-size: 1000px;
+}
+.box_word{
+    text-align: left;
+    padding-bottom: 10%;
+    margin-left: 15%;
+    font-size: 60px;
+    font-weight: 300;
+    color: white;
+    
+}
+.chat_button{
+    float: right;
+    margin-right: 20%;
+    border-radius: 5px;
+    margin-top:-250px
+    
+}
+.footer{
+    color: gray;
+    text-align: center;
+    font-weight: 3;
+}
+.mail{
+    
+    font-size: 30px ;
+    color: #042F59;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+.logo{
+    
+    width: 4%;
+    display: flex;
+    gap: 16px;
+    margin: auto;
+    padding: 2%;
+    
 }
